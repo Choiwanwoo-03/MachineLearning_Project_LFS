@@ -1,3 +1,4 @@
 data/features/*.parquet filter=lfs diff=lfs merge=lfs -text
 data/models/*.pkl filter=lfs diff=lfs merge=lfs -text
 data/models/*.json filter=lfs diff=lfs merge=lfs -text
+data/results/raw/국토교통부_전국[[:space:]]버스정류장[[:space:]]위치정보_20251031.csv filter=lfs diff=lfs merge=lfs -text
